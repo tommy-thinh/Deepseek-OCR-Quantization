@@ -1,0 +1,252 @@
+[
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/253/16.jpg",
+    "ground_truth": "những căn chòi tạm bợ sống qua ngày. Ngẫm sao mà thương thế! Đáng lẽ phải được",
+    "prediction": "Những con đã tôi bỏ ra ngay ngay. Người ta mơ mơ nhưng, thật đáng kể như thai."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/255/15.jpg",
+    "ground_truth": "được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu",
+    "prediction": "Thực. Từ nhớ cảm thần liền mơ thơ thanh cảm thần bóng tát. Sau bao nó lúc khó chuyển, cảm"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/34.jpg",
+    "ground_truth": "văn hóa; khắc phục những sơ hở, tiêu cực trong quản lý và hoạt động",
+    "prediction": "van hoi ; khác phục những sẵn hôi, trên các trong quản lý và hoạt động"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/251/8.jpg",
+    "ground_truth": "Xử lý nghiêm minh theo pháp luật và kỷ luật của Đảng những người",
+    "prediction": "Xin lý nghiem minh, theo pháp luật và lý luật của Đảng, những người"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/34.jpg",
+    "ground_truth": "Lập tức Thứ trưởng Đặng Hùng Võ phản ứng : \" ông bố \" có quyền của \" ông bố \",",
+    "prediction": "Lớp thư thiết trường Đồng thang và phản ứng: \"ông bố có quyển của \"ông bố\""
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/21.jpg",
+    "ground_truth": "làm thất thoát tài sản nhà nước... Về kinh tế : Tập trung mọi nỗ lực",
+    "prediction": "I am that's that's san nha nước .... Vei bung te: táp trung mơ nó lúc"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/253/25.jpg",
+    "ground_truth": "mà còn để con đường xuống cấp thê thảm, có phải là góp thêm phần",
+    "prediction": "mẹ con đẻ ăn đường xem gì? Như thế mà, ở phải kĩ, gặp thêm phải!"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/255/4.jpg",
+    "ground_truth": "khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?",
+    "prediction": "khác cũn từ thanh đạt, nghĩa là có điều cũn sợ giai sang, điều mới nghĩa là phục ợ"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/251/22.jpg",
+    "ground_truth": "Xây dựng và phát triển đội ngũ CB - CC có chất lượng chuyên môn",
+    "prediction": "Xây dựng văn phát triển tín ngữ CB-CC có chất lượng chuyên môn."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/253/17.jpg",
+    "ground_truth": "tôn vinh thì trái lại những con người ấy đã bị đẩy xuống đáy cùng của cuộc",
+    "prediction": "Để sinh thế tươi, bà những con người cũng sẽ bị: dậy xương dày cùng cười,"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/253/32.jpg",
+    "ground_truth": "dương nào thiết thực hơn đối với anh Đại và những đồng nghiệp là xử lý ngay",
+    "prediction": "Đang chịu thời hạn của anh Đan ưu mừng đây nghĩa là em ấy gặp"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/254/16.jpg",
+    "ground_truth": "triển, tồn tại tốt.",
+    "prediction": "trên, thân tài đặt."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/14.jpg",
+    "ground_truth": "bộ máy hành chính, nâng cao tinh thần trách nhiệm và ý thức kỷ luật của CB - CC,",
+    "prediction": "bó: may hản shính, nảng cao tính thân trách nhạm ưa ý thứ/ từ ý dù chỉ các"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/19.jpg",
+    "ground_truth": "\" trường hợp nhà đầu tư có nhu cầu thỏa thuận với người đang sử dụng đất, chúng",
+    "prediction": "những hãy mất đi sức nhẹ của thân thiện, vừa người đang mở lòng đời, đứng"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/25.jpg",
+    "ground_truth": "Tiếp tục nhân rộng các mô hình huy động vốn đầu tư. Tập trung khai thác",
+    "prediction": "Tặp' tu chân răng các mơ hồn hãy dặng vợn đau tụt. Tặp trung thai đức."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/11.jpg",
+    "ground_truth": "Chưa kể để doanh nghiệp và người dân \" nói chuyện \" với nhau như",
+    "prediction": "Chưa liệt sĩ đang nghiệp và người dân \"nói chuyện\" với nhau như"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/35.jpg",
+    "ground_truth": "văn hóa. Tiếp tục tập trung nguồn lực cho chương trình 3 giảm...",
+    "prediction": "vạn hoài. Tiếp tục tập trung người lúc cho đường trần 3 giảm ..."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/5.jpg",
+    "ground_truth": "& môi trường lại đều đồng thanh \" loại bỏ \" điều khoản này ra khỏi dự thảo.",
+    "prediction": "và mời huỷ lên tiền hành \"tạp họ\" để tiến chương này ra cuộc điều tra."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/253/6.jpg",
+    "ground_truth": "nhiều bạn đọc gọi đến bày tỏ sự chia sẻ, ủng hộ.",
+    "prediction": "Những bạn đọc tiên bây kỳ lúc chút lên, cũng hò."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/20.jpg",
+    "ground_truth": "ta cần khuyến khích vì Nhà nước chẳng mất cái gì cả \". Ông Võ \" kêu gọi \" :",
+    "prediction": "Ta cần không biết từ Nhà nước chẳng mất cái gì cả \". Ông vợ \"kiên gọi\":"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/4.jpg",
+    "ground_truth": "thực hiện việc kê khai nhà đất và cơ sở sản xuất kinh doanh của cán bộ - công",
+    "prediction": "nực hồn việc thai nhà đặt ra có số sản xuất lạnh danh của con bò - cây"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/253/36.jpg",
+    "ground_truth": "Phải là một câu chuyện đàng hoàng! Nhóm công nhân dũng cảm ấy gồm",
+    "prediction": "Phân tích mối liên hệ chuyển hướng về tham gia nghiên cứu đánh chấm ngày 19 năm"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/33.jpg",
+    "ground_truth": "Nâng cao năng lực quản lý nhà nước trên các lĩnh vực kinh doanh dịch vụ",
+    "prediction": "Nang cao năng lực quản lý nhân viên trên các hình ước biên đánh dích vụ."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/253/35.jpg",
+    "ground_truth": "và người dân sẽ không còn phải đặt cược cho niềm tin của mình.",
+    "prediction": "Cả người bạn có thể thấy thật sự khác biệt giữa bạn mình và bạn"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/27.jpg",
+    "ground_truth": "nghiệp nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà nước.",
+    "prediction": "nghịp nhớ nước và việc tỏ chút, sắp xếp lời doanh nghiệp nhớ nước."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/254/8.jpg",
+    "ground_truth": "330.000 km2)",
+    "prediction": "\\[ 330.000 \\, \\text{km}^2 \\]"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/30.jpg",
+    "ground_truth": "trình hội nhập kinh tế của TP. Về văn hóa - xã hội : đẩy mạnh xã",
+    "prediction": "trình hồi nhập kín tế của TP. Về văn hoá - xã hội; đây mạnh xã hội."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/251/38.jpg",
+    "ground_truth": "dịch vụ văn hóa; khắc phục những sơ hở, tiêu cực trong quản lý",
+    "prediction": "điều vui xinh hoài; thưái phúc những số thời, tiêu củe trong quản lý."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/30.jpg",
+    "ground_truth": "ông con \". Theo đó, UBND cấp tỉnh, thành phố được quyền thu hồi, giao đất",
+    "prediction": "Đóng con ủ. Theo đó, UBND cấp tỉnh, thanh phó được quyền thụ hại, giao dịch"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/254/21.jpg",
+    "ground_truth": "minh và hạnh phúc của nhân dân.",
+    "prediction": "mình và hành phúc của mình đàn."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/6.jpg",
+    "ground_truth": "Giám đốc Sở Tài nguyên & môi trường Hải Phòng Chu Minh Tuấn cho",
+    "prediction": "gian đời Sở tài nguyên và môi trường Hải phòng chung Minh Trần che"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/7.jpg",
+    "ground_truth": "Xử lý nghiêm minh theo pháp luật và kỷ luật của Đảng những người có hành",
+    "prediction": "Xúi lý nghiêm mình theo pháp luật và ký luận của Đảng những quyết có hạn."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/251/7.jpg",
+    "ground_truth": "trong lĩnh vực đất đai và các công trình trọng điểm.",
+    "prediction": "trong linh viết đặt đại vá cái cẳng trình trong điển."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/254/3.jpg",
+    "ground_truth": "là một phần biển Đông.",
+    "prediction": "là một phản biện đóng."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/255/6.jpg",
+    "ground_truth": "Cuộc sống sẽ chỉ cho bạn có những người thành đạt được thành công theo một cách giản dị đến bất",
+    "prediction": "Góc ngữ sẹ chủ cho bạn có những người thảnh hát thích ứng thơ một cách gần đón tới."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/16.jpg",
+    "ground_truth": "giải quyết khiếu nại, tố cáo. Xây dựng hoàn thiện hệ thống các qui trình",
+    "prediction": "già quý thiên núi, tỏ cào. Xây dựng hạnh thiên hệ thay cả quy trìng"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/23.jpg",
+    "ground_truth": "Ái Trực tiếp lời : Các nước đều áp dụng cơ chế tự thỏa thuận khi thu hồi",
+    "prediction": "Ai Trúc tiếp li: Các mức điểm đáp ứng có thể từ thỏa thuận khác nhau?"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/255/8.jpg",
+    "ground_truth": "Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân",
+    "prediction": "Thanh công lí khu bốc và con trai có dùng khí biếu nào hợp, nếu những món ăn mẹ - thách nhau"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/28.jpg",
+    "ground_truth": "Sở Tài nguyên - môi trường & nhà đất Hà Nội Trịnh Kiên Đĩnh đề nghị : thẩm",
+    "prediction": "Sử dụng ngôn - mới trường để nhắc đến Hà Nội Trinh Kiên Đình đệ nghị: Trần"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/251/26.jpg",
+    "ground_truth": "đưa tốc độ tăng trưởng GDP trên địa bàn TP đạt 12% năm",
+    "prediction": "Bác tôi đã tăng trưởng OAP trên địa bàn TP đạt 14% năm."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/254/20.jpg",
+    "ground_truth": "xã hội, có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn",
+    "prediction": "xài hội, có liên quan thực tập đến sự phản vinh của đất nước, đến văn"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/253/39.jpg",
+    "ground_truth": "như làm chạnh lòng tôi là có phải họ đã xả thân vì đại nghĩa để rồi gia đình,",
+    "prediction": "Chịu trách nhiệm, bạn bè phải thử, đánh giá thời gian và thời tiết của bạn."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/26.jpg",
+    "ground_truth": "các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa doanh",
+    "prediction": "Các người vốn cho người sách. Tổng kết quả trưng cô phát hoá doanh"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/253/23.jpg",
+    "ground_truth": "có thể hình dung công trình đường liên cảng A5 chắc là nhằm phục vụ hoạt động của",
+    "prediction": "Có thời hình chẳng rằng hình thức làm cây A S chưa thêm phép, vừa hoàn thành?"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/250/21.jpg",
+    "ground_truth": "chúng ta cần thay đổi trong quan điểm, không nên để hệ thống hành chính",
+    "prediction": "chúng ta còn thay đổi trong quan điểm, không nên đeo thẻ thông hành chính."
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/255/10.jpg",
+    "ground_truth": "màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành",
+    "prediction": "mai ... đen chảy. Những nhìn màn cơm, mẹ em cũng cũng: ôi vì hai bên không thể thành"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/3.jpg",
+    "ground_truth": "dựng chỉnh đốn Đảng theo tinh thần nghị quyết trung ương 6 (lần 2). Theo đó, tiếp tục",
+    "prediction": "Sử dụng dịch vụ bằng theo trình thời ngữ: quyết trung ứng 6 (1a2). Theo đó, phương"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/10.jpg",
+    "ground_truth": "tăng cường sức chiến đấu của tổ chức cơ sở Đảng. Tiếp tục đổi mới và nâng",
+    "prediction": "Tôi cũng suy luôn chịu 'đánh' quả tô thuốc có sổ Đảng. Tôi tựa tôi mà văn ngữ"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/251/20.jpg",
+    "ground_truth": "Kiên quyết chấn chỉnh bộ máy hành chính các cấp, nhanh chóng",
+    "prediction": "Kêu vọng chân chính bà may hành chính cái cáp, mành chóng"
+  },
+  {
+    "image_path": "/content/drive/MyDrive/OCR/UIT_HWDB_line/test_data/252/9.jpg",
+    "ground_truth": "đạo, quản lý để xảy ra tham nhũng, tiêu cực ở cơ quan, đơn vị. Kiện toàn và",
+    "prediction": "Tao, quản lý đề xây ra tham nhũng, tiêu ước ở quản, đơn giản. Kiên trọng ưu"
+  }
+]
