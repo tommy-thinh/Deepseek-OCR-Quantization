@@ -1,0 +1,109 @@
+{
+  "model_revision": "84cced885e9ae0de9f2307915a255ac04fd6e8ec",
+  "scope": "CPU preprocessing capture; no model weights, forward pass, or real generation",
+  "samples": [
+    {
+      "id": "line/test/250/1.jpg",
+      "passed": true,
+      "image_tokens": 1183,
+      "crop_grid": [
+        9,
+        1
+      ],
+      "prompt_tokens": 1196
+    },
+    {
+      "id": "line/test/255/14.jpg",
+      "passed": true,
+      "image_tokens": 1183,
+      "crop_grid": [
+        9,
+        1
+      ],
+      "prompt_tokens": 1196
+    },
+    {
+      "id": "paragraph/test/250/1.jpg",
+      "passed": true,
+      "image_tokens": 1093,
+      "crop_grid": [
+        4,
+        2
+      ],
+      "prompt_tokens": 1106
+    },
+    {
+      "id": "paragraph/test/253/2.jpg",
+      "passed": true,
+      "image_tokens": 583,
+      "crop_grid": [
+        3,
+        1
+      ],
+      "prompt_tokens": 596
+    },
+    {
+      "id": "paragraph/test/253/3.jpg",
+      "passed": true,
+      "image_tokens": 683,
+      "crop_grid": [
+        4,
+        1
+      ],
+      "prompt_tokens": 696
+    },
+    {
+      "id": "paragraph/test/253/4.jpg",
+      "passed": true,
+      "image_tokens": 583,
+      "crop_grid": [
+        3,
+        1
+      ],
+      "prompt_tokens": 596
+    },
+    {
+      "id": "paragraph/test/253/5.jpg",
+      "passed": true,
+      "image_tokens": 583,
+      "crop_grid": [
+        3,
+        1
+      ],
+      "prompt_tokens": 596
+    },
+    {
+      "id": "paragraph/test/253/6.jpg",
+      "passed": true,
+      "image_tokens": 583,
+      "crop_grid": [
+        3,
+        1
+      ],
+      "prompt_tokens": 596
+    },
+    {
+      "id": "paragraph/test/255/3.jpg",
+      "passed": true,
+      "image_tokens": 683,
+      "crop_grid": [
+        4,
+        1
+      ],
+      "prompt_tokens": 696
+    }
+  ],
+  "upstream_generation": {
+    "temperature": 0.0,
+    "max_new_tokens": 8192,
+    "no_repeat_ngram_size": 35,
+    "use_cache": true
+  },
+  "benchmark_generation": {
+    "do_sample": false,
+    "num_beams": 1,
+    "max_new_tokens": 2048,
+    "repetition_penalty": 1.0
+  },
+  "all_passed": true
+}

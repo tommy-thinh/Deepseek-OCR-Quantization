@@ -1,1 +1,0 @@
-CER (finetuned) = 1.294605

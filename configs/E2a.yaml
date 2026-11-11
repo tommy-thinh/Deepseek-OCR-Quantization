@@ -1,0 +1,6 @@
+extends: base.yaml
+experiment: E2a
+precision: int8
+source_adapter: models/E1/final
+merged_model: models/E1/merged
+artifact: models/E2a/quantized

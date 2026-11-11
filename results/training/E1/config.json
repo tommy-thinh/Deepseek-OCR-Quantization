@@ -1,0 +1,70 @@
+{
+  "seed": 42,
+  "model": {
+    "name": "unsloth/DeepSeek-OCR",
+    "revision": "84cced885e9ae0de9f2307915a255ac04fd6e8ec",
+    "attention": "eager",
+    "skip_modules": [
+      "sam_model",
+      "vision_model",
+      "projector",
+      "lm_head"
+    ]
+  },
+  "data": {
+    "unlabeled_policy": "exclude",
+    "roots": {
+      "line": "UIT_HWDB_line",
+      "paragraph": "UIT_HWDB_paragraph"
+    },
+    "audit": "results/data/audit.json"
+  },
+  "preprocessing": {
+    "prompt": "<image>\nVietnamese OCR. Please read the text in the image.",
+    "base_size": 1024,
+    "image_size": 640,
+    "crop_mode": true,
+    "max_length": 8192
+  },
+  "generation": {
+    "do_sample": false,
+    "num_beams": 1,
+    "max_new_tokens": 2048,
+    "repetition_penalty": 1.0
+  },
+  "lora": {
+    "r": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.0,
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj",
+      "gate_proj",
+      "up_proj",
+      "down_proj"
+    ]
+  },
+  "train": {
+    "expected_world_size": 2,
+    "per_device_batch_size": 1,
+    "gradient_accumulation_steps": 8,
+    "effective_batch_size": 16,
+    "epochs": 1,
+    "learning_rate": 0.0002,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.0,
+    "max_grad_norm": 1.0,
+    "gradient_checkpointing": true,
+    "save_steps": 100,
+    "log_steps": 1
+  },
+  "benchmark": {
+    "warmup": 2,
+    "repeats": 1
+  },
+  "experiment": "E1",
+  "precision": "bf16",
+  "adapter": "models/E1/final"
+}

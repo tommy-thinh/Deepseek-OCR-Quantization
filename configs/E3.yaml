@@ -1,0 +1,5 @@
+extends: base.yaml
+experiment: E3
+precision: nf4
+adapter: models/E3/final
+base_artifact: models/E3/base_nf4

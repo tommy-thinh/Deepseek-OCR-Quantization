@@ -1,0 +1,3 @@
+extends: base.yaml
+experiment: E0
+precision: bf16

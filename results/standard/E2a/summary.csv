@@ -1,0 +1,2 @@
+experiment,status,cer,load_seconds,load_peak_allocated_bytes,peak_allocated_bytes,peak_reserved_bytes,weight_file_bytes,adapter_weight_bytes,warmup_runs,measured_runs,latency_mean_seconds,latency_p50_seconds,latency_p95_seconds,images_per_second,tokens_per_second
+E2a,completed,0.5866762720861455,22.83961934875697,4096133632,5156655104,6733955072,4079375124,0,2,232,15.221761549768793,8.132102058967575,36.35097614685073,0.06569541880750256,4.880150205726289

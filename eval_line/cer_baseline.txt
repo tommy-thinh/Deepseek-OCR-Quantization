@@ -1,1 +1,0 @@
-CER (baseline) = 0.343129

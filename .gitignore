@@ -1,0 +1,57 @@
+# Local instructions and assignment material
+AGENTS.md
+PROJECT_SPEC.md
+*.pdf
+
+# Python, environments, caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.conda*/
+.cache/
+.ipynb_checkpoints/
+.env
+.env.*
+
+# Weights, checkpoints, logs, temporary outputs
+models/
+checkpoints/
+checkpoint-*/
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.log
+*.tmp
+tmp/
+temp/
+wandb/
+runs/
+
+# Only curated publication results belong in Git
+results/*
+!results/standard/
+!results/training/
+!results/quantization/
+!results/analysis/
+!results/data/
+results/standard/*
+!results/standard/E0/
+!results/standard/E1/
+!results/standard/E2a/
+!results/standard/E2b/
+!results/standard/E3/
+results/analysis/*
+!results/analysis/summary.csv
+!results/analysis/paragraph_errors.csv
+!results/analysis/preprocessing_parity.json
+results/data/*
+!results/data/audit.json
+results/training/*
+!results/training/E1/
+!results/training/E3/
+results/quantization/*
+!results/quantization/E1/
+!results/quantization/E2a/
+!results/quantization/E2b/

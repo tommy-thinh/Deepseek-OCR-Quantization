@@ -1,0 +1,4 @@
+extends: base.yaml
+experiment: E1
+precision: bf16
+adapter: models/E1/final

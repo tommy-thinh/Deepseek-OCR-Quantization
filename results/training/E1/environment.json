@@ -1,0 +1,36 @@
+{
+  "python": "3.10.22",
+  "platform": "Linux-5.18.0-051800-generic-x86_64-with-glibc2.35",
+  "packages": {
+    "torch": "2.6.0+cu124",
+    "torchvision": "0.21.0+cu124",
+    "transformers": "4.57.1",
+    "peft": "0.17.1",
+    "accelerate": "1.10.1",
+    "bitsandbytes": "0.48.1",
+    "unsloth": null,
+    "jiwer": "4.0.0",
+    "Pillow": "11.3.0"
+  },
+  "cuda": "12.4",
+  "cuda_available": true,
+  "torch_threads": 1,
+  "torch_interop_threads": 96,
+  "gpus": [
+    {
+      "index": 0,
+      "name": "NVIDIA A30",
+      "bytes": 25337004032
+    },
+    {
+      "index": 1,
+      "name": "NVIDIA A30",
+      "bytes": 25337004032
+    }
+  ],
+  "nvidia_driver": [
+    "580.178.04",
+    "580.178.04"
+  ],
+  "git_commit": "a3483294ad1200f0fcf0948460a59ef4e48b7d5a"
+}
